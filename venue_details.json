@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Zeppelin",
+  "address": "545 Post Street, San Francisco, CA 94102",
+  "capacity": 120,
+  "booking_status": "Unknown - requires contacting venue"
+}
